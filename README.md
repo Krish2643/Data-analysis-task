@@ -47,6 +47,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Result
 
-![Alt text](/relative/path/to/image1.jpg?raw=true "Optional Title")
+![image1](https://github.com/Krish2643/Data-analysis-task/assets/78633764/36e52ff0-6b9f-441f-bd3a-c53754dc4922)
 
-[url=https://postimg.cc/ph5L19Ns][img]https://i.postimg.cc/ph5L19Ns/Screenshot-2024-06-25-065126.png[/img][/url]
