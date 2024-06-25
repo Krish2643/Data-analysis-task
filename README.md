@@ -49,3 +49,11 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ![image1](https://github.com/Krish2643/Data-analysis-task/assets/78633764/36e52ff0-6b9f-441f-bd3a-c53754dc4922)
 
+![image2](https://github.com/Krish2643/Data-analysis-task/assets/78633764/73f7a02e-cbe5-4cca-8d01-06fb9c004359)
+
+![image3](https://github.com/Krish2643/Data-analysis-task/assets/78633764/96610e67-58e7-40b3-8b1c-aeff8345e87a)
+
+![image4](https://github.com/Krish2643/Data-analysis-task/assets/78633764/2d2f0a6a-5ec6-40a0-b8f8-c1695490cd3d)
+
+
+
